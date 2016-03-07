@@ -2,6 +2,7 @@
 An attempt in silliness to plot wifi ssids to an address, then create a pseudo gps out of it.
 
 Currently - 
+
 1. Scans wifi hotspots once a second on the train just using my laptop's antenna.
 
 2. Organize data into workable format.
